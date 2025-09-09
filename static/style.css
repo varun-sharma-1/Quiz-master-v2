@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.mainoncontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;  
+    padding: 20px;
+    background-color: rgb(184, 152, 184);  
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.login12 h2, h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.mincontainer {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.id45 {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    /*color: #97abbf;*/
+    text-decoration: none;
+}
+
+.maxcontainer {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.maxocontainer {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.id46{
+    background-color: rgb(184, 152, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.id47{
+    height: 40px;
+    background-color: rgb(184, 152, 184);
+}
+.id48{
+    display: inline;
+    /*color: #97abbf;*/
+    text-decoration: none;
+    margin-right: 160px;
+
+}
+
+.id49{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.id50{
+    width: 100%;
+    padding: 10px;
+    background-color: #d38080;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+
+.subject-container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.subject-container h2 {
+    text-align: center;
+}
+
+
+.subject-section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.subject-section h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.subject-actions {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+.quiz-container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+
+.quiz-card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.quiz-card h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.btn {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.edit-btn {
+    background-color: #f1c40f;
+}
+
+.delete-btn {
+    background-color: #e74c3c;
+}
+
+.add-btn {
+    background-color: #2ecc71;
+}
+
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: white;
+}
+
+.styled-table th, .styled-table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.styled-table thead {
+    background-color: rgb(184, 152, 184);
+    color: white;
+}
+
+.styled-table tbody  {
+    background-color: #f1f1f1;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+
+footer .id90 {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    background: #2ecc71;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+footer .id49:hover {
+    background: #27ae60;
+}
+
